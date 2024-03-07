@@ -7,7 +7,8 @@ This is an example of a database-driven [11ty](https://www.11ty.dev/) site that 
 1. Setup a MongoDB database (try the free tier [MongoDB Atlas](https://www.mongodb.com/atlas) and follow the [Atlas Tutorial](https://www.mongodb.com/basics/mongodb-atlas-tutorial)).
 2. Load the [Sample Mflix Dataset](https://www.mongodb.com/docs/atlas/sample-data/sample-mflix/).
 3. Create `.env` file and add `MONGO_URI` to define the [connection string](https://www.mongodb.com/docs/manual/reference/connection-string/).
-4. Start 11ty with `npm start`.
+4. Install dependencies with `npm install`.
+5. Start 11ty with `npm start`.
 
 ## Data files
 
