@@ -1,4 +1,4 @@
-# mongo-11ty-mflix-example
+# eleventy-mongodb-mflix
 
 This is an example of a database-driven [11ty](https://www.11ty.dev/) site that integrates data from  MongoDB, a document-oriented database (NoSQL). It makes use of the [mongodb](https://www.npmjs.com/package/mongodb) driver for NodeJS.
 
