@@ -1,0 +1,12 @@
+---
+title: Home
+layout: base
+---
+
+<h2>Genres</h2>
+
+<ul class="genres">
+  {% for genre in genres %}
+    <li>{{ genre._id }}</li>
+  {% endfor %}
+</ul>
